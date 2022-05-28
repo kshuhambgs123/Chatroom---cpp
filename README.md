@@ -1,4 +1,4 @@
-# Chatroom---cpp
+# Chatroom-in-C
 A Chat room application developed in c using the concepts of multi - threading and socket programming / TCP
 
 Run the following commands in your terminal :
